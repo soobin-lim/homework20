@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/homework20/static/css/main.9af437a5.chunk.css",
-    "main.js": "/homework20/static/js/main.6af31774.chunk.js",
-    "main.js.map": "/homework20/static/js/main.6af31774.chunk.js.map",
+    "main.css": "/homework20/static/css/main.f7402511.chunk.css",
+    "main.js": "/homework20/static/js/main.b34ee0e6.chunk.js",
+    "main.js.map": "/homework20/static/js/main.b34ee0e6.chunk.js.map",
     "runtime-main.js": "/homework20/static/js/runtime-main.11b27536.js",
     "runtime-main.js.map": "/homework20/static/js/runtime-main.11b27536.js.map",
     "static/js/2.bcd59343.chunk.js": "/homework20/static/js/2.bcd59343.chunk.js",
@@ -10,9 +10,10 @@
     "static/js/3.8702bc18.chunk.js": "/homework20/static/js/3.8702bc18.chunk.js",
     "static/js/3.8702bc18.chunk.js.map": "/homework20/static/js/3.8702bc18.chunk.js.map",
     "index.html": "/homework20/index.html",
-    "static/css/main.9af437a5.chunk.css.map": "/homework20/static/css/main.9af437a5.chunk.css.map",
+    "static/css/main.f7402511.chunk.css.map": "/homework20/static/css/main.f7402511.chunk.css.map",
     "static/js/2.bcd59343.chunk.js.LICENSE.txt": "/homework20/static/js/2.bcd59343.chunk.js.LICENSE.txt",
     "static/media/avatarphoto.6fa05cbe.jpg": "/homework20/static/media/avatarphoto.6fa05cbe.jpg",
+    "static/media/carmaterial.59e62d48.png": "/homework20/static/media/carmaterial.59e62d48.png",
     "static/media/fitnesstracker.33635454.png": "/homework20/static/media/fitnesstracker.33635454.png",
     "static/media/flightticket.3cde18cf.png": "/homework20/static/media/flightticket.3cde18cf.png",
     "static/media/img1.09140f97.jpg": "/homework20/static/media/img1.09140f97.jpg",
@@ -22,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.11b27536.js",
     "static/js/2.bcd59343.chunk.js",
-    "static/css/main.9af437a5.chunk.css",
-    "static/js/main.6af31774.chunk.js"
+    "static/css/main.f7402511.chunk.css",
+    "static/js/main.b34ee0e6.chunk.js"
   ]
 }
